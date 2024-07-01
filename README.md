@@ -42,6 +42,6 @@ Bu proje, lisans dosyasına uygun olarak lisanslanmıştır. Lisans bilgilerini 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen GitHub üzerindeki sorunlar bölümünü kullanarak bize ulaşın. Yardımcı olmaktan memnuniyet duyarız!
 
 ## veri seti
-https://www.kaggle.com/c/fake-news/data?select=train.csv
-Yukardaki linkden ulaşabilirsiniz.
+https://www.kaggle.com/c/fake-news/data?select=train.csv 
+linkden ulaşabilirsiniz.
 
